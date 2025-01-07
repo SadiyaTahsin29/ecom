@@ -1,0 +1,6 @@
+[submodule "Sassique-frontend"]
+	path = Sassique-frontend
+	url = https://github.com/Tarsign/Sassique-frontend.git
+[submodule "Sassique-backend"]
+	path = Sassique-backend
+	url = https://github.com/Tarsign/Sassique-backend.git
